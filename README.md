@@ -128,6 +128,7 @@ O principal objetivo deste notebook é perceber o que mais influencia a qualidad
 **Artigos sobre vinhos:**
 
 Site: https://reserva85.com.br/
+
 Site: https://tudosobrevinho.com.br/guia-introdutorio-para-iniciantes-no-mundo-do-vinho/
 
 **Informações e origem do conjunto de dados.**
